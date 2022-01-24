@@ -1,0 +1,70 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin:0px;
+    text-align: left;
+    
+}
+.heading h3
+{
+    display: inline;
+}
+
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+canvas
+{
+height: 600px;
+width:300px;
+border-style: dotted;
+border: 2px solid whitesmoke;
+border-radius: 20px;
+box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.play
+{
+   width: 140px;
+   height: 50px;
+   font-size: 23px;
+}
+
+.restart
+{
+   width: 140px;
+   height: 50px;
+   font-size: 23px;
+}
+
+.copy_right_footer
+{
+   bottom: 0;
+background-color: orange;
+line-height: 3;
+text-align: center;
+position: fixed;
+width: 100%;
+
+}
+
+
+.modal-dialog
+{
+    width:90%;
+ 
+
+}
+
+h4{
+    text-align: left;
+}
